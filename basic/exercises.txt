@@ -1,94 +1,114 @@
 int, float
 
 exercise 1
+
 write a program that will solve the square equation
 
 exercise 2
+
 Write a program that will calculate the following expression: (a + b - f / a) + f * a * a - (a + b)
  The numbers a, b, f are entered from the keyboard. Organize the user interface in such a way that it is clear in what
  order the numbers should be entered.
 
 exercise 3
+
 Write a program that will read the entered five-digit number. After that, each digit of this number must be displayed on
 a new line.
 
 exercise 4
+
 write a program that will take the length of the radius of the circle and will calculate the length of the area of
 the circle.
 
 exercise 5
+
 Write a program that will take 2 numbers and will return True if the first number is greater than or equal to the other
 and will return False otherwise
 
 str
 
-exercise 1
+exercise 6
+
 Write a string in one module and apply all string methods at least once per string
 
-exercise 2
+exercise 7
+
 Writing a program that gets a string will count the number of characters ‘a’ և ‘b’ in the line and return True if the
 number of ‘a’ is large - ‘b’'s False և False otherwise. For example: My_string = ‘abcbaa’
 
 Exit: count_a = 3: count_b = 2: True:
 
-exercise 3
+exercise 8
+
 Write a program that will get a string in which there are digits (for example 'asgerr5dhhf56fddd789fddfff5555hl')
 Will count the sum of all the counts of the digits.
 
-exercise 4
+exercise 9
+
 Write a program that asks the user for two words and outputs them separated by commas
 
 list
 
 
-exercise 1
+exercise 10
+
     Write a list in one module and apply all list methods at least once per list
 
-exercise 2
+exercise 11
+
     create a list with length 10 whose elements are numbers. write a program that will display in a new list the 3
     largest elements in the given list.
 
-exercise 3
+exercise 12
+
     write a program that will take a five-digit number and will insert each digit in the given number in one list in
     order from beginning to end.
 
 dict, set
 
-exercise 1
+exercise 13
+
 Write a function to_dict (lst) that takes a list argument and returns a dictionary in which each item in the list is
 both a key and a value. It is assumed that the elements of the list will follow the rules for specifying keys in
 dictionaries.
 
-exercise 2
+exercise 14
+
 The user enters data on the number of students, their surnames, names and score for each. The program should determine
 the average grade and display the last names and first names of students whose score is above the average.
 
-exercise 3
+exercise 15
+
 The program has a month and a year of two dates. The user enters another date (month and year only). Determine if
 the third date is in the range from the first date to the second, inclusive. Solve the problem using dict
 
-exercise 4
+exercise 16
+
 Write a program that stores data about goods, their quantity and price. When the program starts, this information is
 displayed on the screen. Next, the user should be prompted to enter the item numbers and their new quantity. Changes
 to data should be completed when the user enters a specially specified character (for example, 0). After that, all data
 about the items should be displayed again.
 
-exercise 5
+exercise 17
+
 A string is given in the form of a random sequence of numbers from 0 to 9, the length of the string must be at least
 100 characters. It is required to create a dictionary that will accept these numbers as keys (that is, the keys will
 be of type int), and as values - the number of these numbers in the available sequence. To build a dictionary, create
 a count_it (sequence) function that takes a string of numbers. The function should return a dictionary of the 3 most
 frequently encountered numbers.
 
-exercise 6
+exercise 18
+
 The to_set () function receives a string or a list of numbers as input. Convert them to many. The output should be a
 set, its length and length is the initial length of the string or list.
 
-exercise 7
+exercise 19
+
 There is a list with arbitrary data. The task is to transform it into a set. If some elements cannot be hashed,
 then we skip them. The list_to_set () function prints out the given list and the resulting set.
 
-exercise 8
+exercise 20
+
 A list of natural numbers is provided. It is required to form a set of them. If any number is repeated, then convert
 it to a string according to the pattern: for example, if the number 4 is repeated 3 times, then the set will contain
 the following record: the number 4 itself, the line "44" (the second repetition, that is, the number is duplicated in
@@ -98,142 +118,177 @@ function.
 
 if elif else
 
-exercise 1
+exercise 21
+
 write a program (calculator) that will accept 2 numbers and an action(+, -, *, /, **) , the program must return the
 result of the given action. for example num_1 = 3 num_2 = 5 action = ' + ' result = 8
 
-exercise 2
+exercise 22
+
 Enter three integers from the keyboard. Decide which is the biggest.
 
-exercise 3
+exercise 23
+
 The coordinates (x;y) of the point and the radius of the circle (r) are entered. Determine whether a given point
 belongs to a circle if its center is at the origin.
 
-exercise 4
+exercise 24
+
 Enter a date from the keyboard (for example, 1986). Decide whether the year entered by the user is a leap year or not.
 
-exercise 5
+exercise 25
+
 Enter two random numbers from the keyboard, one even and the other odd. Decide and display an odd number.
 
-exercise 6
+exercise 26
+
 Enter two non-zero integers from the keyboard. Check if the first is divisible by the second. Display a message
 about it, display the remainder after the division (if any) and the integer part after the division (whatever).
 
-exercise 7
+exercise 27
+
 Enter three different numbers from the keyboard. Find the average (greater than one but less than the other).
 
-exercise 8
+exercise 28
+
 Convert the number entered by the user to bytes or kilobytes, depending on the user's choice. the program must take a
 value and measure (b or kb ) and must return an answer for two measurement values at the same time
 
-exercise 9
+exercise 29
+
 Enter an integer representing the character code according to the ASCII table. Determine if this is an English letter
 code or some other character.
 
-exercise 10
+exercise 30
+
 Find the roots of a quadratic equation and display them on the screen, if any. If there are no roots, then display a
 message about it. A specific quadratic equation is determined by the coefficients a, b, c that the user enters.
 
-exercise 11
+exercise 31
+
 Based on the lengths of three segments entered by the user, determine the possibility of the existence of a triangle
 composed of these segments. If such a triangle exists, then determine whether it is scalene, isosceles, or equilateral.
 
-exercise 12
+exercise 32
+
 Given the following function y=f(x): y = 2x - 10 if x > 0 y = 0 if x = 0 y = 2 * |x| — 1 if x < 0 It is required to
 find the value of the function by the passed x.
 
-exercise 13
+exercise 34
+
 Determine the quarter of the coordinate plane to which the point belongs. Enter point coordinates from the keyboard.
 
 loops, for loop, while loop
 
-exercise 1
+exercise 35
+
 Count the even and odd digits of the entered natural number. For example, if the number 34560 is entered, then it has
 3 even digits (4, 6 and 0) and 2 odd digits (3 and 5).
 
-exercise 2
+exercise 36
+
 Find the sum and product of the digits of the entered natural number. For example, if the number 325 is entered,
 then the sum of its digits is 10 (3+2+5), and the product is 30 (325).
 
-exercise 3
+exercise 37
+
 Print on the screen a series of natural numbers from minimum to maximum with a step. For example, if the minimum is 10,
 the maximum is 35, the step is 5, then the output should be: 10 15 20 25 30 35. The minimum, maximum and step are
 specified by the user (read from the keyboard).
 
-exercise 4
+exercise 38
+
 Calculate the factorial of the entered number.
 
-exercise 5
+exercise 39
+
 Display as many elements of the Fibonacci series as the user has specified. For example, if the input received the
 number 7, then the output should contain the first six numbers of the Fibonacci series: 1 1 2 3 5 8 13.
 
-exercise 6
+exercise 40
+
 Form the inverse of the entered number in the order of the digits included in it and display it. For example,
 if you entered the number 3486, then you need to output the number 6843.
 
-exercise 7
+exercise 41
+
 The program generates a random integer from 0 to 100. The user must guess it in no more than 10 attempts. After each
 unsuccessful attempt, more or less the number entered by the user should be reported than what is guessed. If in 10
 attempts the number is not guessed, then output the hidden number.
 
-exercise 8
+exercise 42
+
 Fill one array with random numbers, the other with numbers entered from the keyboard, write the sums of the
 corresponding cells of the first two in the cells of the third. Display the contents of the arrays on the screen.
 
-exercise 9
+exercise 43
+
 Fill an array of real numbers with keyboard input. Calculate the sum and product of the array elements. Display the
 array itself, the resulting sum and the product of its elements.
 
-exercise 10
+exercise 44
+
 Write a program that will add, subtract, multiply, or divide two numbers. The numbers and sign of the operation are
 entered by the user. After completing the calculation, the program should not terminate, but should request new data for calculations. The end of the program must be carried out by entering the character '0' as an operation character. If the user enters an invalid character (not ‘0’, ‘+’, ‘-’, ‘*’, ‘/’), then the program should inform him about the error and ask again for the character of the operation. Also inform the user about the impossibility of dividing by zero if he entered 0 as a divisor.
 
-exercise 11
+exercise 45
+
 Display the multiplication table (from 1 to 9).
 
-exercise 12
+exercise 46
+
 Generate 20 random integers ranging from -5 to 4, write them to the array cells. Count how many of them are positive,
 negative and zero values. Display array elements and counted quantities.
 
-exercise 13
+exercise 47
+
 Count how many times a certain digit occurs in the entered sequence of numbers. The number of numbers to be entered and
 the number to be counted are set by entering from the keyboard.
 
-exercise 14
+exercise 48
+
 Find the sum of n elements of the following row of numbers: 1 -0.5 0.25 -0.125 ... The number of elements (n) is
 entered from the keyboard.
 
-exercise 15
+exercise 49
+
 Draw a symbol along the diagonals of an imaginary square.
 
-exercise 16
+exercise 50
+
 Ten natural numbers greater than 2 are entered. Calculate how many primes are among them.
 
-exercise 17
+exercise 51
+
 Display on the screen what prime factors the entered natural number consists of.
 
-exercise 18
+exercise 52
+
 Find all perfect numbers up to 10000. A perfect number is a number that is equal to the sum of all its divisors, except
 for itself. For example, the number 6 is perfect because besides itself is divisible by the numbers 1, 2 and 3, which
 add up to 6.
 
-exercise 19
+exercise 53
+
 Display a "rectangle" made up of two types of symbols. The outline of the rectangle should consist of one symbol,
 and in the "fill" - from another.
 
-exercise 20
+exercise 54
+
 In the entered interval of natural numbers, find those whose number of divisors is not less than the entered value.
 For the found numbers, display the number of divisors and all divisors.
 
-exercise 21
+exercise 55
+
 Among the natural numbers that have been entered, find the largest in the sum of the digits. Display this number and
 the sum of its digits.
 
-exercise 22
+exercise 56
+
 Check the parentheses. You have 3 types of parentheses () [] {}, for example! ({{}} {] []}})! Check that each open
 parenthesis has a closed parenthesis.
 
-exercise 23
+exercise 57
 
 Write a function that gets a number, not a negative integer, subtract all its odd digits. If all digits are subtracted,
 return zero. Example:
@@ -241,7 +296,7 @@ return zero. Example:
 number = 123456, the output should be 246
 number = 139, the output must be 0
 
-exercise 24
+exercise 58
 
 write a pr@gram that takes n number and displays a rectangle with the appearance of a spitral for example.
 
@@ -255,9 +310,47 @@ write a pr@gram that takes n number and displays a rectangle with the appearance
  @  .  .  .  .  .  .  .  @
  @  @  @  @  @  @  @  @  @
 
+exercise 59
 
+Write a function that will get a non-negative number matrix. Calculate the sum of the elements in each column.
+Determine which column contains the maximum amount. The function must return the largest sum հերթական the serial
+number of the corresponding column.
 
+exercise 60
 
+Write a function that will get a non-negative number matrix. Calculate the sum of the elements in each column.
+Determine which column contains the maximum amount. Find the smallest element of that column, the function must
+return the value of that element.
 
+exercise 61
 
+Write a function that gets two matrices of equal size. In cells of the same matrix of the same size, write larger
+elements than the corresponding cells of the first two matrices. For example, if the second cell of the third row
+of the first matrix contains the number 89, and the cell with the same pointer to the second matrix contains the
+number 10, then the number 89 must be written in the same cell of the third. The function must return the third matrix.
 
+exercise 62
+
+Write a function that will get the matrix to sort the sequence of columns so that the elements in their
+first column are in ascending order.
+
+exercise 63
+
+Write a function that fills in a list of random numbers in the domain specified by the user. The function must take
+two arguments: the beginning of the range and its end, while returning nothing. The output of the list item values
+must occur in the main part of the function.
+
+exercise 64
+
+Write a function that will get a list. Find the greatest common divisors for any two numbers in the list. The function
+must return a list containing the largest common divisors of all the numbers in the received list.
+
+exercise 65
+
+Write a function that determines the number of digits entered.
+
+exercise 66
+
+A one-dimensional list of natural numbers is given. Sort the given list in ascending order of the sum of the digits
+of the digits. For example, an array of numbers is given [14, 30, 103]. After sorting it will be like this:
+[30, 103, 14], because the sum of the digits of 30 is 3, the number 103 is 4, the number 14 is 5.
