@@ -1,0 +1,16 @@
+if elif else
+
+1. https://www.tutorialspoint.com/python/python_if_else.htm
+2. https://www.geeksforgeeks.org/python-if-else/
+3. https://www.w3schools.com/python/python_conditions.asp
+
+loops
+
+1. https://www.w3schools.com/python/python_for_loops.asp
+2. https://realpython.com/python-for-loop/
+3. https://www.tutorialspoint.com/python/python_for_loop.htm
+4. https://www.w3schools.com/python/python_while_loops.asp
+5. https://realpython.com/python-while-loop/
+6. https://realpython.com/python-while-loop/
+7. https://www.tutorialspoint.com/python/python_while_loop.htm
+8. https://www.geeksforgeeks.org/python-while-loop/

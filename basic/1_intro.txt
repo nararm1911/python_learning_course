@@ -1,0 +1,8 @@
+1. https://en.wikipedia.org/wiki/Python_(programming_language)#:~:text=Python%20was%20conceived%20in%20the,implementation%20began%20in%20December%201989.
+2. https://www.jetbrains.com/ru-ru/pycharm/
+3. https://code.visualstudio.com/
+4. https://www.python.org/
+5. https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BF%D1%80%D0%B5%D1%82%D0%B0%D1%82%D0%BE%D1%80
+6. https://git-scm.com/book/en/v2
+7. https://www.geeksforgeeks.org/python-variables/
+8. https://realpython.com/python-variables/#:~:text=Officially%2C%20variable%20names%20in%20Python,name%20cannot%20be%20a%20digit.

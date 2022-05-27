@@ -1,0 +1,17 @@
+functions
+
+1. https://www.tutorialspoint.com/python/python_functions.htm
+2. https://www.programiz.com/python-programming/function
+3. https://www.w3schools.com/python/python_functions.asp
+4. https://www.programiz.com/python-programming/args-and-kwargs#:~:text=*args%20passes%20variable%20number%20of,kwargs%20make%20the%20function%20flexible.
+5. https://realpython.com/python-kwargs-and-args/
+6. https://www.geeksforgeeks.org/args-kwargs-python/
+7. https://habr.com/ru/company/ruvds/blog/482464/
+8. https://www.datacamp.com/community/tutorials/python-lambda?utm_source=adwords_ppc&utm_medium=cpc&utm_campaignid=1455363063&utm_adgroupid=65083631748&utm_device=c&utm_keyword=&utm_matchtype=&utm_network=g&utm_adpostion=&utm_creative=332602034364&utm_targetid=aud-299261629574:dsa-429603003980&utm_loc_interest_ms=&utm_loc_physical_ms=9070053&gclid=CjwKCAjw3cSSBhBGEiwAVII0ZxXQ4FUrcU5XEktH9M39kAaxrHxbGabP3IB_LkSPWGLSa4lGOFyRXRoCHNwQAvD_BwE
+9. https://www.w3schools.com/python/python_lambda.asp
+10. https://www.programiz.com/python-programming/anonymous-function
+11. https://www.geeksforgeeks.org/python-program-for-bubble-sort/
+12. https://www.programiz.com/python-programming/recursion
+13. https://www.geeksforgeeks.org/recursion-in-python/
+14. https://coderslegacy.com/python/quicksort-algorithm/
+

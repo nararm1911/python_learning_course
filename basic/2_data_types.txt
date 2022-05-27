@@ -1,0 +1,45 @@
+int (integers), float
+
+1. https://docs.python.org/3/library/stdtypes.html
+2. https://docs.python.org/3/c-api/bool.html
+3. https://www.geeksforgeeks.org/python-int-function/#:~:text=Python%20int()%20function%20returns,a%20given%20base%20to%20decimal.
+4. https://www.geeksforgeeks.org/float-in-python/
+5. https://www.tutorialspoint.com/python/python_numbers.htm#:~:text=Type%20int(x)%20to%20convert,x%20and%20imaginary%20part%20zero.
+
+str (string)
+
+1. https://www.geeksforgeeks.org/python-strings/
+2. https://docs.python.org/3/library/string.html
+3. https://www.tutorialspoint.com/python/python_strings.htm
+4. https://www.tutorialspoint.com/python-string-methods
+5. https://realpython.com/python-f-strings/
+6. https://www.programiz.com/python-programming/examples/ascii-character
+7. https://python-reference.readthedocs.io/en/latest/docs/str/ASCII.html
+
+list, tuple
+
+1. https://docs.python.org/3/tutorial/datastructures.html
+2. https://www.geeksforgeeks.org/python-list/
+3. https://www.tutorialspoint.com/python/python_lists.htm
+4. https://www.geeksforgeeks.org/python-tuples/?ref=lbp
+5. https://www.tutorialspoint.com/python/python_tuples.htm
+6. https://www.w3schools.com/python/python_ref_list.asp
+7. https://www.geeksforgeeks.org/list-methods-python/
+
+dict
+
+1. https://www.w3schools.com/python/python_dictionaries.asp
+2. https://www.tutorialspoint.com/python/python_dictionary.htm
+3. https://www.programiz.com/python-programming/dictionary
+4. https://www.w3schools.com/python/python_ref_dictionary.asp
+5. https://www.geeksforgeeks.org/python-dictionary-methods/
+
+set
+
+1. https://www.geeksforgeeks.org/python-sets/
+2. https://www.tutorialspoint.com/python_data_structure/python_sets.htm
+
+
+
+
+
